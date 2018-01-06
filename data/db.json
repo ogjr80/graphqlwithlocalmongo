@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "Gideon",
+      "lastname": "Ogongo",
+      "middlename": "Olufemi",
+      "age": 38,
+      "companyid" : "1"
+    },
+    {
+      "id": "2",
+      "firstname": "Aremu",
+      "lastname": "Onikoboko",
+      "middlename": "Olufemi",
+      "age": 10000,
+      "companyid": "1"
+    },
+    {
+      "id": "3",
+      "firstname": "Sade",
+      "lastname": "Ogongo",
+      "middlename": "Abigail",
+      "age": 3,
+      "companyid": "2"
+    }
+  ],
+
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Build imac iphone and ipad"
+    },
+    {
+      "id": "2",
+      "name": "Microsoft",
+      "description": "jack of all trade master of all :)"
+    }
+  ]
+}
